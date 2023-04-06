@@ -1,3 +1,3 @@
-# OpenCV-Fundamentals-HV
+## OpenCV Fundamentals Exercise
 
-<p>This file contains OpenCV exercises.</p>
+<p>This repository contains OpenCV exercises</p>
